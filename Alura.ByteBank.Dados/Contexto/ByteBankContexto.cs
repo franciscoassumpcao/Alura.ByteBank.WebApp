@@ -13,6 +13,7 @@ namespace Alura.ByteBank.Dados.Contexto
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            
             string stringconexao = "Server=bytebank.mysql.database.azure.com;"+                                    
                                     "UserID = francisco;"+
                                     "Password=Valentin2021;"+

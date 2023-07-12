@@ -6,7 +6,15 @@ namespace Alura.ByteBank.Dominio.Testes
 {
     public class AgenciaTestes
     {
-        [Fact]
+       [Fact]
+        public void TestName()
+        {
+            // Given
+        
+            // When
+        
+            // Then
+        }
         public void CriarObjetoAgenciaValido()
         {
             //Arrange            
